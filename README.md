@@ -20,8 +20,8 @@
 **In Admin page you can check and see all the persons that entered and stored in the Database and you can search for any person and sort all the persons in asc or desc way.**
 
 # App Photos
-
-
+![photo_2021-10-27_19-41-49](https://user-images.githubusercontent.com/58918060/139118134-bca485e0-6f84-4e88-967a-7a3cd351aef0.jpg)
+![photo_2021-10-27_19-39-27](https://user-images.githubusercontent.com/58918060/139118144-bc058a83-a806-4ff3-a48b-a1f019b706e6.jpg)
 
 # License
 MIT License
